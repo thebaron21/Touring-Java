@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/A7medBaron/Desktop/Touring/app/src/main/res/drawable/custom_image_buttton.xml" value="0.2075" />
+        <entry key="..\:/Users/A7medBaron/Desktop/Touring/app/src/main/res/layout/activity_areas.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/A7medBaron/Desktop/Touring/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/A7medBaron/Desktop/Touring/app/src/main/res/layout/activity_maps.xml" value="0.139453125" />
+        <entry key="..\:/Users/A7medBaron/Desktop/Touring/app/src/main/res/layout/activity_region.xml" value="0.25" />
+        <entry key="..\:/Users/A7medBaron/Desktop/Touring/app/src/main/res/layout/activity_region_details.xml" value="0.2" />
+        <entry key="..\:/Users/A7medBaron/Desktop/Touring/app/src/main/res/layout/activity_states.xml" value="0.33" />
+        <entry key="..\:/Users/A7medBaron/Desktop/Touring/app/src/main/res/layout/item_r_view.xml" value="0.15" />
+        <entry key="..\:/Users/A7medBaron/Desktop/Touring/app/src/main/res/layout/states_card.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

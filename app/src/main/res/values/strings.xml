@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Touring</string>
+    <string name="title_activity_areas">AreasActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="categories_text">حدد نوع المناطق السياحية أو الأثرية لذهاب إليها</string>
+    <string name="s_name">سياحية</string>
+    <string name="a_name">اثرية</string>
+    <string name="click">Click</string>
+    <string name="apikey">AIzaSyCUNDOup-AmMnKFZLFHlZOWI1MP8rAAgos</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="keyMap">AIzaSyANJUxkhE-oqq-tnKbtE6HyGbNEi6ACp0k</string>
+</resources>
